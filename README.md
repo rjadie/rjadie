@@ -1,4 +1,4 @@
-# Rob Adie
+# UX Analyst, Designer, & Developer
 
 - 👋 Hi, I’m @rjadie
 - 👀 I’m interested in making useful product.
