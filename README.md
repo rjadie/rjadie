@@ -1,4 +1,4 @@
-= Rob Adie
+# Rob Adie
 
 - 👋 Hi, I’m @rjadie
 - 👀 I’m interested in making useful product.
