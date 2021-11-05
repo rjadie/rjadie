@@ -1,4 +1,4 @@
-# UX Analyst, Designer, & Developer
+# Developer & Designer in Edmonton, AB
 
 - 👋 Hi, I’m @rjadie
 - 👀 I’m interested in making useful product.
